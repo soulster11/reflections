@@ -7,3 +7,5 @@ How is the staging area different from the working directory and the repository?
 The staging area is different from the working directory and the repository in that the staged files are a copy of what is in the working directory but have not been committed to the repository. 
 The value of staged files allows you or others to review them before actually committing them to the repository.
 
+How can you use the staging area to make sure you have one commit per logical change?
+After making the necessary changes and running git add <file_name> then running git status will show me what I files I have have staged and ready to be committed. This will help me identify that the files being committed are for one logical change. 
