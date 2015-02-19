@@ -5,5 +5,5 @@ to track changes and commits. I need to run the git init command to create the
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is different from the working directory and the repository in that the staged files are a copy of what is in the working directory but have not been committed to the repository. 
-The value of staging the files allows you or others to review them before actually committing them to the repository.
+The value of staged files allows you or others to review them before actually committing them to the repository.
 

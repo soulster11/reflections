@@ -31,7 +31,7 @@ Using git log pulles all the committs that were done for the selected applicatio
 How might using version control make you more confident to make changes that could break something?
 Using version control allows me to revert to a previous commit if I introduce a bug into the code by the most recent changes.
 
-Now that you have your workspace set up, what do you want to try using Git for?
+What do you want to try using Git for?
 Git seems to be a pain in the back side. But once I get used to using the tool I can see
 the benefit of using it to keep track of code changes and managing changes to a project
-or multiple projects. It is a learning curve but it will smooth out over time.
+or multiple projects. It is a learning curve but it will smooth out over time. I will use Git for projects in the Udacity Front End Web Developer NanoDegree.
