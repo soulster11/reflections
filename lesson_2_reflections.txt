@@ -16,3 +16,6 @@ Braches would be helpful when adding new functionality to a website or an applic
 
 How do the diagrams help you visualize the branch structure?
 It helped me see how everything is connected.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches together makes commits from both branches reachable by the new merged branch. Not sure what is meant by why do we represent it in the diagram the way we do? The merged branches are now a new tip of both branches.
