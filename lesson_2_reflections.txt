@@ -13,3 +13,6 @@ After making the necessary changes and running git add <file_name>then running g
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches are helpfull after a site or application is put into production. Branches help keep track of the changes inthe event you want to roll back to an earlier version of the code. 
 Braches would be helpful when adding new functionality to a website or an application that was previously developed and put into prodcution.
+
+How do the diagrams help you visualize the branch structure?
+It helped me see how everything is connected.
