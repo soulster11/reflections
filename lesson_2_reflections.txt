@@ -19,3 +19,6 @@ It helped me see how everything is connected.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result of merging two branches together makes commits from both branches reachable by the new merged branch. Not sure what is meant by why do we represent it in the diagram the way we do? The merged branches are now a new tip of both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+If there are no conflicts that auto merge works fine. If there are confilicts, you must manually merging the two commits after resolving the conflict. Resolving conflicts causes the developer to look at the conflicts and resolve them. I do not see any cons to manually merging two commits. If the commits were to merge automatically while there are conflicts this would potentially break the code and the application would not work as planned. Manually resolving the conflicts allows for the code in conflict to be resolved before the code is merged and pushed to the repository.
