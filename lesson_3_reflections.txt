@@ -3,3 +3,7 @@ I would want to use a remote repository while working on a project with multiple
 Another reason to keep a remote repository would be to allow me to work on my project if my
 personal machine was not available or if something happened to it. The remote repository would
 allow me to continue working on the project.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date
+with your remote repository?
+I would want to pull changes manually because I may have made changes locally that are not on the remote and if Git automatically pulled from the remote it would erase changes I have made since the last commit?
