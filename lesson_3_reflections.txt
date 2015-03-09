@@ -7,3 +7,6 @@ allow me to continue working on the project.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date
 with your remote repository?
 I would want to pull changes manually because I may have made changes locally that are not on the remote and if Git automatically pulled from the remote it would erase changes I have made since the last commit?
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are used to clone someones work on github. The fork will not make changes to the original authors work. The fork allows me to modify the code to my liking while showing the author. Cloning a repository makes a copy of a repository and places it on my local machine. Making changes locally and pushing back to the remote. A branch is say an enhancement off of the Master in the repository. I would make a branch if I wanted to add some changes to the master after the project has been finished. Mulitple users can make a branch off the master and work on different parts of a project then merge them together for a finished project.
