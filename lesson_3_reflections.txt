@@ -15,6 +15,4 @@ What is the benefit of having a copy of the last known state of the remote store
 The benefit would be the ability to work on the files if there was no internet connection... God Forbid.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-Collaboration without Git or Github would be a nightmare. I think it would require passing large files back and forth
-between collaborators and something is bound to get messed up. Using Git and GitHub makes this process much easier
-in that you can make changes and submit a pull request to have the changes reviewed by the other collaborators on the project.
+Collaboration without Git or Github would be a nightmare. I think it would require passing large files back and forth between collaborators and something is bound to get messed up. Using Git and GitHub makes this process much easier in that you can make changes and submit a pull request to have the changes reviewed by the other collaborators on the project.
